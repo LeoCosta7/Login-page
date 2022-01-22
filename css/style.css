@@ -19,6 +19,8 @@ body{
     background-color: #ecf0f1;
 }
 
+
+
 .content{
     background-color: #fff;
     border: 3px solid rgb(237, 180, 38);
@@ -275,7 +277,7 @@ body{
 @keyframes slideIn {
     from {
         left: 0;
-        width: 60%;
+        width: 50%;
     }
     to {
         left: 60%;
@@ -285,8 +287,8 @@ body{
 
 @keyframes slideOut {
     from {
-        left: 40%;
-        width: 60%;
+        left: 50%;
+        width: 50%;
     }
     to {
         left: 0;
